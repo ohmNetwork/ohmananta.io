@@ -11,7 +11,7 @@ body {
 }
 
 /* หัวเรื่อง */
-.main-font {
+main-font {
     position: absolute;
     top: 50px;  /* ปรับตำแหน่งลง */
     left: 10%;
